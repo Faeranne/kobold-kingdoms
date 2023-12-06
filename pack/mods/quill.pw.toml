@@ -1,7 +1,8 @@
-name = "Quill"
+name = "quill"
 filename = "Quill-1.18.2.jar"
+side = "both"
 
 [download]
-url = "https://koboldkingdoms.sfo3.cdn.digitaloceanspaces.com/Quill-1.18.2.jar"
+url = "https://koboldkingdoms.sfo3.cdn.digitaloceanspaces.com/mod-files/Quill-1.18.2.jar"
 hash-format = "sha256"
 hash = "b46648aabf8a19ca88335ffe61c0271a6a8d8fec0173a73afeff213e66b0151e"

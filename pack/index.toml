@@ -1,8 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Quill-1.18.2.jar"
-hash = "b46648aabf8a19ca88335ffe61c0271a6a8d8fec0173a73afeff213e66b0151e"
+file = "docker-compose.yml"
+hash = "e1a1864b594f2cf0c9159881695927f2404f9bbe33a3273fc4bdf79514804631"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
+metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
@@ -30,18 +35,43 @@ hash = "c36470c61f702c29eb5678adcae3d60f7a54c667dff16c2f40f3ad7f89475160"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-offline.pw.toml"
+hash = "eed29de7ac97749dfeab08b96154a5f6b60ec4c0878e0bf99c6d70b58136d242"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "0e82bb571251b2274b6fa354d7416e46a52936fae1a36a13558fa3c555bcd266"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "e4ad6c41831ce4899a9f926e8edfccdc0412ad628b3d92f5e74e39d5ce3ab146"
+metafile = true
+
+[[files]]
+file = "mods/no-nether-portal.pw.toml"
+hash = "f5e658afc13c5a64ad1ec7201f17a6c646c9af4e9a3e8837408a31f9274d312c"
+metafile = true
+
+[[files]]
 file = "mods/quill.pw.toml"
-hash = "c14fc7f15e8a53ceb84066ba6729b446b3abc3cbe75be14bc7ff14b1f0a8d9a4"
+hash = "c1597f84bc13a7cd74ff1f4a82c3785d434cedf88ff841aa3622dd497c69f0e1"
 metafile = true
 
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "e7437ee7dbb38db3a38e3a96503892895f213d42136296ed38bdab88d7d23f43"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "614a7bd300f1eac1aa5693b2b331d3dab75bd2f1e5989ab14f8d463c3b58d19c"
 metafile = true
 
 [[files]]

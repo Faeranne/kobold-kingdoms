@@ -1,0 +1,13 @@
+name = "MoreJS: KubeJS Addon"
+filename = "morejs-forge-1.18.2-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mo64mR1W/versions/bZVkwKdb/morejs-forge-1.18.2-0.0.6.jar"
+hash-format = "sha1"
+hash = "1b6eed355b86f13da2d076ba2f50c333cca36b99"
+
+[update]
+[update.modrinth]
+mod-id = "mo64mR1W"
+version = "bZVkwKdb"
