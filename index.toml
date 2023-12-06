@@ -1,0 +1,80 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Quill-1.18.2.jar"
+hash = "b46648aabf8a19ca88335ffe61c0271a6a8d8fec0173a73afeff213e66b0151e"
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "6e3bc306196e0edc56d8339c0029fda4d61b42df582e9898ba48b0d4e216b717"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "425511f147954812f0a1e476a927900636ec7ba460de61f5e6bf5be210267f54"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "41783237b3f36d2ec7ea0c7014cb1ab7dc725935edd4136ec459bba72fb0d531"
+metafile = true
+
+[[files]]
+file = "mods/kobolds.pw.toml"
+hash = "c36470c61f702c29eb5678adcae3d60f7a54c667dff16c2f40f3ad7f89475160"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
+metafile = true
+
+[[files]]
+file = "mods/quill.pw.toml"
+hash = "c14fc7f15e8a53ceb84066ba6729b446b3abc3cbe75be14bc7ff14b1f0a8d9a4"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "e7437ee7dbb38db3a38e3a96503892895f213d42136296ed38bdab88d7d23f43"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "fa0c96e4a3b050e5a406b69d125fd546b0d8bcaba360ad3d7ca48b21aabbf57f"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "cc463318d7c36611c2a48621a07fcc70f05ae99c07a91875d0036ada6b30502b"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ad6b68abc410563776c69194968d8a9d2895ccdf6dfbe690042c8fddad3baad2"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "dc241d2dbc9f38d9ab71ecb899b871c3aef37871ae9f6d83440498cfa0a0829d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "535ddd4654d0cf6d47ddd759d98a60276f6c4aa267f1f4a38715c3f7671f557b"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "db63cc3dd0b5734cb6590017c9b1136d9016e3537c370f7d605bee05d7cff86d"
+metafile = true
+
+[[files]]
+file = "mods/wildbackport.pw.toml"
+hash = "0247f085abf92db8f9be5d675ddd746f97ef4c3cc876463011ff0313ef71d85c"
+metafile = true
