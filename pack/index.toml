@@ -81,6 +81,11 @@ hash = "cc463318d7c36611c2a48621a07fcc70f05ae99c07a91875d0036ada6b30502b"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ad6b68abc410563776c69194968d8a9d2895ccdf6dfbe690042c8fddad3baad2"
 metafile = true
@@ -103,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/wildbackport.pw.toml"
 hash = "0247f085abf92db8f9be5d675ddd746f97ef4c3cc876463011ff0313ef71d85c"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "b4d1af03603eba0a2fe8e9db1b0807154bbc16bf669dd084b7c96dded90cf213"
 metafile = true
 
 [[files]]
