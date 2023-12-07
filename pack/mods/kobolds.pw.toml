@@ -1,6 +1,7 @@
 name = "Kobolds"
 filename = "Kobolds-2.9.3-1.18.2-final.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/LI7tRbfG/Kobolds-2.9.3-1.18.2-final.jar"

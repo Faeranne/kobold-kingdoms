@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/kobolds.pw.toml"
-hash = "a8efd5170854fbc77b14185497763ef75117d6ba7ca976d09bb491312601d9e2"
+hash = "a3c1ff779c69577128fdad5cf8a0808973a48e1551514cecbdcbd33acd1ee75d"
 metafile = true
 
 [[files]]
@@ -48,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/morejs.pw.toml"
 hash = "e4ad6c41831ce4899a9f926e8edfccdc0412ad628b3d92f5e74e39d5ce3ab146"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "524f23fbd694cf43d74bef82ce858275b5b2b278a883b33a422cc808df4146ec"
 metafile = true
 
 [[files]]
