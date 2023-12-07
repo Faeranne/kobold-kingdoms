@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/kobolds.pw.toml"
-hash = "c36470c61f702c29eb5678adcae3d60f7a54c667dff16c2f40f3ad7f89475160"
+hash = "a8efd5170854fbc77b14185497763ef75117d6ba7ca976d09bb491312601d9e2"
 metafile = true
 
 [[files]]
