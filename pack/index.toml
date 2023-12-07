@@ -109,3 +109,8 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "b4d1af03603eba0a2fe8e9db1b0807154bbc16bf669dd084b7c96dded90cf213"
 metafile = true
+
+[[files]]
+file = "mods/worldeditcui.pw.toml"
+hash = "6d82cfa638b487f57782cc6ae0afa45786fa024632ac6cb07d464fa61126002f"
+metafile = true
