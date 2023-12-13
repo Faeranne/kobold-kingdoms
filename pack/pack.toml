@@ -1,12 +1,12 @@
 name = "Kobold Kingdoms"
 author = "Faer-Anne"
-version = "0.0.7"
+version = "0.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "954ee6e3dc4e6df6090cca8b5f6bbcffcc933de668f52692e4dfd4fdf86afc96"
+hash = "350287c2c775b92dad92ed0eb0a1466c5ac03fdf15c75c0845efb88c066e7770"
 
 [versions]
 forge = "40.2.14"
