@@ -1,7 +1,0 @@
-name = "WorldEditCUI"
-filename = "WorldEditCUI-1.18.1+01.jar"
-
-[download]
-url = "https://github.com/EngineHub/WorldEditCUI/releases/download/1.18.1%2B01/WorldEditCUI-1.18.1+01.jar"
-hash-format = "sha256"
-hash = "5399c1ea568c43525533ea7bd0a8a48cb25bd4f8a06677b31581d81512293f82"

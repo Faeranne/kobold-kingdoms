@@ -119,8 +119,3 @@ metafile = true
 file = "mods/wildbackport.pw.toml"
 hash = "0247f085abf92db8f9be5d675ddd746f97ef4c3cc876463011ff0313ef71d85c"
 metafile = true
-
-[[files]]
-file = "mods/worldeditcui.pw.toml"
-hash = "6d82cfa638b487f57782cc6ae0afa45786fa024632ac6cb07d464fa61126002f"
-metafile = true
